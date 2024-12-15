@@ -1,7 +1,7 @@
 Remote Control Server
 =====================
 
-PC server for [Remote Control](https://github.com/minhazul-haque/RemoteControl) Android application.
+PC server for [android-remote-control](https://github.com/mdminhazulhaque/android-remote-control) app
 
 ## Requirment ##
 * Qt4/5
